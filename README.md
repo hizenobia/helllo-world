@@ -1,2 +1,3 @@
 # helllo-world
-First repository
+hello zenobia!
+This is your first Github Program.
